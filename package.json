@@ -1,0 +1,14 @@
+{
+  "name": "chartagency",
+  "private": true,
+  "description": "Chart Agency monorepo — the website lives in web/, the admin in admin/. These scripts let Hostinger's Node.js GitHub deploy build the website from the repo root.",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "postinstall": "npm --prefix web ci",
+    "build": "npm --prefix web run build",
+    "start": "npm --prefix web start",
+    "dev": "npm --prefix web run dev"
+  }
+}

@@ -1,0 +1,1470 @@
+{
+ "en": {
+  "meta": {
+   "title": "Chart Agency — Medical Content & Marketing for Hospitals and Doctors",
+   "description": "Chart turns doctors' expertise into high-converting medical reels, ads and content that fill appointment books — for hospitals, clinics and labs across Egypt and the Gulf."
+  },
+  "lang": {
+   "switchTo": "العربية",
+   "short": "ع",
+   "label": "Switch to Arabic"
+  },
+  "nav": {
+   "links": [
+    {
+     "href": "#mission",
+     "label": "Our Mission"
+    },
+    {
+     "href": "#cases",
+     "label": "Case Studies"
+    },
+    {
+     "href": "#services",
+     "label": "Services"
+    },
+    {
+     "href": "#process",
+     "label": "Process"
+    },
+    {
+     "href": "#faq",
+     "label": "FAQ"
+    }
+   ],
+   "cta": "Book a Call",
+   "ctaLong": "Book a Strategy Call",
+   "openMenu": "Open menu",
+   "homeLabel": "Chart Agency home"
+  },
+  "slots": {
+   "month": "November",
+   "text": "Only 3 slots left"
+  },
+  "hero": {
+   "title": {
+    "before": "Turn your medical content into your most predictable",
+    "accent": "patient",
+    "after": "channel"
+   },
+   "lead": "We script, film and edit high-converting medical Reels & Shorts for doctors, clinics and hospitals — then put ads behind them that turn viewers into booked appointments.",
+   "cta": "Book a Strategy Call",
+   "reels": [
+    {
+     "img": "/assets/img/reels/doctor-smiling.jpg",
+     "alt": "Doctor in a white coat smiling to camera",
+     "views": "248K",
+     "cap": "٣ أعراض متتجاهلهاش أبداً"
+    },
+    {
+     "img": "/assets/img/reels/surgery.jpg",
+     "alt": "Surgeons operating under theatre lights",
+     "views": "1.2M",
+     "cap": "كواليس غرفة العمليات"
+    },
+    {
+     "img": "/assets/img/reels/facial-peel.jpg",
+     "alt": "Patient receiving a dermatology facial treatment",
+     "views": "530K",
+     "cap": "التقشير ولا الليزر؟"
+    },
+    {
+     "img": "/assets/img/reels/eye-exam.jpg",
+     "alt": "Ophthalmologist examining a patient's eyes",
+     "views": "94K",
+     "cap": "إمتى تحتاج تعمل ليزك؟"
+    },
+    {
+     "img": "/assets/img/reels/doctor-scrubs.jpg",
+     "alt": "Doctor in teal scrubs",
+     "views": "312K",
+     "cap": "دكتورة بتجاوب على أسئلتكم"
+    },
+    {
+     "img": "/assets/img/reels/lab.jpg",
+     "alt": "Lab technician pipetting samples",
+     "views": "76K",
+     "cap": "تحاليل لازم تعملها كل سنة"
+    },
+    {
+     "img": "/assets/img/reels/dentist.jpg",
+     "alt": "Dentist talking with a patient",
+     "views": "410K",
+     "cap": "ابتسامة هوليود في جلسة؟"
+    },
+    {
+     "img": "/assets/img/reels/microneedling.jpg",
+     "alt": "Microneedling skin treatment",
+     "views": "188K",
+     "cap": "النتيجة بعد ٣ جلسات"
+    }
+   ],
+   "phone": {
+    "following": "Following",
+    "forYou": "For You",
+    "handle": "@dr.clinic",
+    "caption": "يوم في حياة جراح 🩺 #صحتك_أولاً",
+    "sound": "♫ Original sound"
+   },
+   "glassA": {
+    "to": 200,
+    "suffix": "k+",
+    "label": "Reels views"
+   },
+   "glassB": {
+    "to": 15,
+    "suffix": "%",
+    "word": "",
+    "label": "More bookings"
+   },
+   "trust": "Trusted by hospitals, clinics, labs & doctors across Egypt & the Gulf"
+  },
+  "clients": [
+   {
+    "img": "/assets/img/clients/medical/mostafa-elnaggar-hospital.png",
+    "name": "Mostafa El Naggar Hospital"
+   },
+   {
+    "img": "/assets/img/clients/medical/dr-alyaa.png",
+    "name": "Dr. Alyaa Beauty Clinic"
+   },
+   {
+    "img": "/assets/img/clients/medical/damanhour-eye-center.png",
+    "name": "Damanhour Eye Center"
+   },
+   {
+    "img": "/assets/img/clients/medical/msg-clinics.png",
+    "name": "MSG Clinics Ghoneim"
+   },
+   {
+    "img": "/assets/img/clients/medical/tulip-lab.png",
+    "name": "Tulip Lab"
+   },
+   {
+    "img": "/assets/img/clients/medical/dr-manal-alattar.png",
+    "name": "Dr. Manal Alattar"
+   },
+   {
+    "img": "/assets/img/clients/medical/enjaz-lab.png",
+    "name": "Enjaz Lab"
+   },
+   {
+    "img": "/assets/img/clients/medical/dr-lamees-abdo.png",
+    "name": "Dr. Lamees Abdo"
+   }
+  ],
+  "mission": {
+   "chip": "Our Mission",
+   "title": {
+    "before": "We help healthcare brands grow with",
+    "accent": "intention",
+    "after": "not just trends."
+   },
+   "ceo": {
+    "eyebrow": "Our Mission",
+    "title": "We are not any regular Marketing Agency",
+    "text": "We work with doctors and hospitals who are ready to take their presence seriously. Not just to fill a feed or chase trends, but to build trust that turns into booked appointments. For us, content is just the starting point. Our approach combines medical accuracy, strategy, execution and consistency.",
+    "signature": "Adel",
+    "role": "Adel Hassabllah · CEO @Chart"
+   },
+   "photoAlt": "Doctor recording medical content",
+   "big": {
+    "to": 12.6,
+    "decimals": 1,
+    "suffix": "M+",
+    "word": "Reels Views",
+    "text": "Delivered last month for our medical clients through content strategy, medical scripting, professional editing, posting schedule and performance analysis."
+   },
+   "retention": {
+    "to": 92,
+    "label": "Client retention"
+   },
+   "engagement": {
+    "to": 340,
+    "label": "Avg. engagement"
+   },
+   "quote": {
+    "text": "“Excellent service and results that exceeded our expectations. A truly professional and cooperative team.”",
+    "name": "Mohamed Omar",
+    "role": "Director, Nour El Oyoun Center"
+   }
+  },
+  "cases": {
+   "chip": "Case Studies",
+   "title": {
+    "before": "Client Success",
+    "accent": "Stories",
+    "after": ""
+   },
+   "items": [
+    {
+     "dark": false,
+     "logo": "/assets/img/clients/medical/dr-alyaa.png",
+     "name": "Dr. Alyaa Beauty Clinic",
+     "specialty": "Dermatology & Aesthetics",
+     "spots": "",
+     "stats": [
+      {
+       "prefix": "",
+       "to": 1.2,
+       "decimals": 1,
+       "suffix": "",
+       "word": "Million+",
+       "label": "Reels views",
+       "sub": "(last 7 days)"
+      },
+      {
+       "prefix": "+",
+       "to": 340,
+       "decimals": 0,
+       "suffix": "%",
+       "word": "",
+       "label": "Engagement",
+       "sub": ""
+      },
+      {
+       "prefix": "",
+       "to": 2.4,
+       "decimals": 1,
+       "suffix": "x",
+       "word": "",
+       "label": "Booked consultations",
+       "sub": ""
+      }
+     ],
+     "reels": [
+      {
+       "img": "/assets/img/reels/facial-peel.jpg",
+       "alt": "Facial peel reel",
+       "views": "530K"
+      },
+      {
+       "img": "/assets/img/reels/microneedling.jpg",
+       "alt": "Microneedling reel",
+       "views": "188K"
+      },
+      {
+       "img": "/assets/img/reels/doctor-scrubs.jpg",
+       "alt": "Doctor Q&A reel",
+       "views": "312K"
+      }
+     ]
+    },
+    {
+     "dark": true,
+     "logo": "/assets/img/clients/medical/mostafa-elnaggar-hospital.png",
+     "name": "Mostafa El Naggar Hospital",
+     "specialty": "Cardiology & Vascular",
+     "spots": "2 spots available for December",
+     "stats": [
+      {
+       "prefix": "",
+       "to": 840,
+       "decimals": 0,
+       "suffix": "K+",
+       "word": "",
+       "label": "Reels views",
+       "sub": ""
+      },
+      {
+       "prefix": "+",
+       "to": 180,
+       "decimals": 0,
+       "suffix": "%",
+       "word": "",
+       "label": "Patient inquiries",
+       "sub": ""
+      },
+      {
+       "prefix": "−",
+       "to": 38,
+       "decimals": 0,
+       "suffix": "%",
+       "word": "",
+       "label": "Cost per lead",
+       "sub": ""
+      }
+     ],
+     "reels": [
+      {
+       "img": "/assets/img/reels/surgery.jpg",
+       "alt": "Surgery reel",
+       "views": "1.2M"
+      },
+      {
+       "img": "/assets/img/reels/doctor-man.jpg",
+       "alt": "Surgeon introduction reel",
+       "views": "264K"
+      },
+      {
+       "img": "/assets/img/reels/filming-surgery.jpg",
+       "alt": "Behind the scenes reel",
+       "views": "97K"
+      }
+     ]
+    }
+   ],
+   "midCta": {
+    "title": {
+     "before": "Ready to see these kinds of results for your",
+     "accent": "clinic?",
+     "after": ""
+    },
+    "cta": "Book a Strategy Call",
+    "stats": [
+     {
+      "to": 1,
+      "suffix": "M+",
+      "label": "Reels views per month"
+     },
+     {
+      "to": 45,
+      "suffix": "%",
+      "word": "",
+      "label": "More bookings"
+     }
+    ],
+    "quote": "“For the first time, we know exactly which video brought which patient.”",
+    "quoteBy": "Clinic Director · Dermatology"
+   }
+  },
+  "why": {
+   "chip": "Why Chart?",
+   "title": {
+    "before": "Why the fastest growing practices",
+    "accent": "choose us.",
+    "after": ""
+   },
+   "platform": {
+    "title": "Platform Mastery",
+    "text": "Instagram, TikTok, Facebook, Snapchat, YouTube and Google — we know what patients watch and search on each one."
+   },
+   "squad": {
+    "title": "Medical Expert Squad",
+    "text": "Strategists, script writers and editors who only work in healthcare — and respect the ethics of medical advertising.",
+    "tag": "Medical-only team",
+    "alt": "Specialist reviewing dental x-rays"
+   },
+   "photo": {
+    "title": "Grow with our expert team",
+    "text": "Expert strategies designed to make you the most trusted name in your specialty.",
+    "cta": "Get Started",
+    "alt": "Smiling doctor in a white coat"
+   },
+   "growth": {
+    "title": "Fast Growth",
+    "text": "Achieve more engagement, stronger trust and more booked patients — month after month.",
+    "pills": [
+     "+85% Reach in 30 days",
+     "2x Higher bookings",
+     "10x Organic reach"
+    ]
+   },
+   "analytics": {
+    "title": "Clear Analytics",
+    "text": "See real performance: calls, WhatsApp chats, bookings and cost per patient — in one simple monthly report.",
+    "weeks": [
+     "Week 1",
+     "Week 2",
+     "Week 3",
+     "Week 4"
+    ]
+   }
+  },
+  "services": {
+   "chip": "Our Services",
+   "title": "Unlock your practice's true potential with us.",
+   "cta": "View Case Studies",
+   "items": [
+    {
+     "chip": "Medical Reels",
+     "title": "Medical Content & Reels",
+     "text": "We turn your expertise into short-form videos that educate patients, build trust and grow your community — scripted in Egyptian & Gulf Arabic.",
+     "ticks": [
+      "Monthly content day at your clinic",
+      "Medical script writing & hooks",
+      "Expert video editing & subtitles"
+     ]
+    },
+    {
+     "chip": "Patient Acquisition",
+     "title": "Paid Ads that Book Patients",
+     "text": "High-intent campaigns on Meta, TikTok, Snapchat and Google — targeted by specialty, area and procedure, and optimized for appointments, not likes.",
+     "ticks": [
+      "Meta, TikTok, Snapchat & Google Ads",
+      "Offers & landing pages per service",
+      "Weekly optimization & scaling"
+     ]
+    },
+    {
+     "chip": "Websites",
+     "title": "Medical Websites & Booking",
+     "text": "Fast, bilingual websites and landing pages with online booking, WhatsApp and call tracking — built to convert visitors into patients.",
+     "ticks": [
+      "Arabic & English, mobile-first",
+      "Online booking & WhatsApp buttons",
+      "Call & conversion tracking"
+     ]
+    },
+    {
+     "chip": "Local SEO",
+     "title": "Google Maps, SEO & Reviews",
+     "text": "Show up first when patients search for your specialty nearby — with an optimized Google Business Profile and a steady flow of 5-star reviews.",
+     "ticks": [
+      "Google Business Profile optimization",
+      "Review generation & management",
+      "Arabic & English SEO content"
+     ]
+    },
+    {
+     "chip": "Lead Handling",
+     "title": "WhatsApp, CRM & Call Center",
+     "text": "Leads are only half the job. We set up WhatsApp automation, CRM pipelines and call-center scripts so every inquiry becomes a confirmed visit.",
+     "ticks": [
+      "WhatsApp Business automation",
+      "Call-center scripts & training",
+      "Lead tracking dashboards"
+     ]
+    }
+   ],
+   "mock": {
+    "content": {
+     "heroTitle": "Doctor stories that convert",
+     "heroSub": "Watch our medical reels",
+     "watch": "Watch Now",
+     "stories": "Stories",
+     "isNew": "New"
+    },
+    "ad": {
+     "handle": "dr.alyaa.clinic",
+     "sponsored": "Sponsored",
+     "offer": "Book your first consultation",
+     "book": "Book now",
+     "likes": "2,481 likes",
+     "leads": "+38 new leads today"
+    },
+    "booking": {
+     "title": "Book your visit",
+     "dayLabel": "Select a day",
+     "days": [
+      {
+       "d": "Sat",
+       "n": "14"
+      },
+      {
+       "d": "Sun",
+       "n": "15"
+      },
+      {
+       "d": "Mon",
+       "n": "16"
+      },
+      {
+       "d": "Tue",
+       "n": "17"
+      }
+     ],
+     "timeLabel": "Available times",
+     "times": [
+      "4:00 PM",
+      "5:30 PM",
+      "6:00 PM",
+      "7:30 PM"
+     ],
+     "confirm": "Confirm appointment"
+    },
+    "maps": {
+     "query": "dermatologist near me",
+     "yours": "Your Clinic",
+     "rating": "4.9 · 320 reviews",
+     "open": "Open · Closes 10 PM",
+     "buttons": [
+      "Call",
+      "Directions",
+      "Book"
+     ],
+     "other": "Other clinic",
+     "otherRating": "4.1 · 46 reviews"
+    },
+    "chat": {
+     "name": "Eye Center",
+     "status": "online",
+     "messages": [
+      {
+       "out": false,
+       "text": "مساء الخير، عايز أحجز كشف ليزك 👋"
+      },
+      {
+       "out": true,
+       "text": "أهلاً بحضرتك! متاح السبت ٥ م أو الأحد ٧ م، تحب أي معاد؟"
+      },
+      {
+       "out": false,
+       "text": "السبت ٥ لو سمحت ✅"
+      },
+      {
+       "out": true,
+       "text": "تم الحجز ✔️ هنبعتلك تذكير قبل المعاد بيوم."
+      }
+     ]
+    }
+   }
+  },
+  "process": {
+   "chip": "Process",
+   "title": {
+    "before": "How Chart Works",
+    "accent": "Simple 5-Week System",
+    "after": ""
+   },
+   "weeks": [
+    "Week 01",
+    "Week 02",
+    "Week 03",
+    "Week 04",
+    "Week 05"
+   ],
+   "steps": [
+    {
+     "title": "Discovery Call",
+     "text": "We learn your specialty, services, patients and goals, and audit your current accounts."
+    },
+    {
+     "title": "Content Day",
+     "text": "Our crew films a month of reels at your clinic in one easy session — scripts ready, no stress."
+    },
+    {
+     "title": "Making Viral Reels",
+     "text": "Editing, subtitles, hooks and medical review — every video built to stop the scroll."
+    },
+    {
+     "title": "You Approve & We Launch",
+     "text": "You approve every video, then we publish and run ads to bring patients from week one."
+    }
+   ],
+   "rec": "● REC",
+   "approved": "Approved by Dr.",
+   "live": "Campaign live",
+   "stats": [
+    {
+     "to": 1,
+     "suffix": "M+",
+     "label": "Reels views"
+    },
+    {
+     "to": 45,
+     "suffix": "%",
+     "word": "",
+     "label": "More engagement"
+    },
+    {
+     "to": 30,
+     "suffix": "+",
+     "label": "Videos per month"
+    }
+   ]
+  },
+  "testimonials": {
+   "chip": "Testimonials",
+   "title": {
+    "before": "Real Stories,",
+    "accent": "Real Results",
+    "after": ""
+   },
+   "items": [
+    {
+     "video": false,
+     "img": "",
+     "quote": "“Excellent service and results that exceeded our expectations. A professional and cooperative team that understands how patients think.”",
+     "name": "Mohamed Omar",
+     "role": "Director, Nour El Oyoun Center",
+     "initials": "MO"
+    },
+    {
+     "video": true,
+     "img": "/assets/img/reels/doctor-scrubs.jpg",
+     "quote": "“Our calendar is full every weekday.”",
+     "name": "",
+     "role": "Dermatology clinic · Video review",
+     "initials": ""
+    },
+    {
+     "video": false,
+     "img": "",
+     "quote": "“They understood medical advertising rules from day one. The content feels professional and trustworthy, never cheap.”",
+     "name": "Marketing Manager",
+     "role": "Private hospital",
+     "initials": "MM"
+    },
+    {
+     "video": false,
+     "img": "",
+     "quote": "“I was nervous about being on camera. Their team made it easy, and now patients come in saying they watched my videos.”",
+     "name": "Consultant Surgeon",
+     "role": "Private practice",
+     "initials": "DS"
+    },
+    {
+     "video": true,
+     "img": "/assets/img/reels/dentist.jpg",
+     "quote": "“Implant bookings doubled in 2 months.”",
+     "name": "",
+     "role": "Dental center · Video review",
+     "initials": ""
+    },
+    {
+     "video": false,
+     "img": "",
+     "quote": "“The WhatsApp follow-up system alone doubled the leads that actually turned into lab visits.”",
+     "name": "Operations Lead",
+     "role": "Medical laboratory",
+     "initials": "LO"
+    }
+   ]
+  },
+  "faq": {
+   "chip": "FAQs",
+   "title": {
+    "before": "Everything you need to",
+    "accent": "Know",
+    "after": ""
+   },
+   "text": "Can't find your answer? Message us on WhatsApp and we'll reply within the hour on working days.",
+   "cta": "Ask on WhatsApp",
+   "items": [
+    {
+     "q": "What kind of medical businesses do you work with?",
+     "a": "Hospitals, clinics, medical centers, labs, pharmacies and individual doctors — from dermatology and dental to cardiology, ophthalmology, IVF and plastic surgery."
+    },
+    {
+     "q": "Do I have to appear on camera?",
+     "a": "It's not required, but doctor-led videos build trust fastest. We handle scripts, directing and editing, so filming usually takes just a few hours a month."
+    },
+    {
+     "q": "Is your content compliant with medical advertising rules?",
+     "a": "Yes. We follow local healthcare advertising regulations and each platform's health-ad policies. No exaggerated claims or misleading before-and-afters — every script is reviewed by you before filming."
+    },
+    {
+     "q": "How long does it take to see results?",
+     "a": "Paid campaigns usually bring first inquiries within 1–2 weeks of launch. Organic reach and brand trust compound over 2–3 months of consistent posting."
+    },
+    {
+     "q": "How do you measure success?",
+     "a": "We track calls, WhatsApp chats, booked appointments and cost per patient — not just views. You get a monthly report and a strategy call."
+    },
+    {
+     "q": "Do you offer ongoing support?",
+     "a": "Yes. Most clients work with us on monthly plans with a dedicated account manager, weekly optimization and continuous content production."
+    }
+   ]
+  },
+  "contact": {
+   "title": {
+    "before": "Ready to Unlock your",
+    "accent": "Growth",
+    "after": ""
+   },
+   "text": "Tell us about your practice — we'll send a free content & marketing audit with a clear growth plan.",
+   "form": {
+    "name": "Full name",
+    "phone": "Phone / WhatsApp",
+    "practice": "Clinic / hospital name",
+    "specialty": "Specialty",
+    "specialties": [
+     "Hospital",
+     "Dermatology & Aesthetics",
+     "Dental",
+     "Ophthalmology",
+     "Cardiology",
+     "OB/GYN & IVF",
+     "Medical Lab",
+     "Plastic Surgery",
+     "Other"
+    ],
+    "submit": "Book a Strategy Call",
+    "note": "Opens WhatsApp with your details — we reply within one working day.",
+    "error": "Please add your name and a valid phone number.",
+    "opening": "Opening WhatsApp…",
+    "message": {
+     "intro": "Hello Chart Agency, I would like to book a strategy call.",
+     "name": "Name",
+     "phone": "Phone",
+     "practice": "Practice",
+     "specialty": "Specialty"
+    }
+   },
+   "address": "Ard El Miri, Damanhour, Egypt"
+  },
+  "footer": {
+   "tagline": "Medical content & marketing for hospitals, clinics and doctors in Egypt & the Gulf.",
+   "links": [
+    {
+     "href": "#mission",
+     "label": "Our Mission"
+    },
+    {
+     "href": "#cases",
+     "label": "Case Studies"
+    },
+    {
+     "href": "#services",
+     "label": "Services"
+    },
+    {
+     "href": "#process",
+     "label": "Process"
+    },
+    {
+     "href": "#testimonials",
+     "label": "Testimonials"
+    },
+    {
+     "href": "#faq",
+     "label": "FAQs"
+    },
+    {
+     "href": "#contact",
+     "label": "Book a Call"
+    }
+   ],
+   "word": "Chart Agency",
+   "rights": "Chart Agency. All rights reserved.",
+   "photos": "Photos: Unsplash",
+   "whatsapp": "Chat with us on WhatsApp"
+  }
+ },
+ "ar": {
+  "meta": {
+   "title": "شارت إيجنسي — تسويق ومحتوى طبي للمستشفيات والأطباء",
+   "description": "نحوّل خبرة الأطباء إلى ريلز طبية وإعلانات ومحتوى يملأ جدول الحجوزات — للمستشفيات والعيادات والمعامل في مصر والخليج."
+  },
+  "lang": {
+   "switchTo": "English",
+   "short": "EN",
+   "label": "التبديل إلى الإنجليزية"
+  },
+  "nav": {
+   "links": [
+    {
+     "href": "#mission",
+     "label": "رسالتنا"
+    },
+    {
+     "href": "#cases",
+     "label": "قصص النجاح"
+    },
+    {
+     "href": "#services",
+     "label": "خدماتنا"
+    },
+    {
+     "href": "#process",
+     "label": "طريقة العمل"
+    },
+    {
+     "href": "#faq",
+     "label": "الأسئلة الشائعة"
+    }
+   ],
+   "cta": "احجز مكالمة",
+   "ctaLong": "احجز مكالمة استراتيجية",
+   "openMenu": "فتح القائمة",
+   "homeLabel": "الصفحة الرئيسية لشارت إيجنسي"
+  },
+  "slots": {
+   "month": "نوفمبر",
+   "text": "متبقي ٣ أماكن فقط"
+  },
+  "hero": {
+   "title": {
+    "before": "حوّل محتواك الطبي إلى أكثر قناة مضمونة لجذب",
+    "accent": "المرضى",
+    "after": ""
+   },
+   "lead": "نكتب ونصوّر ونمنتج ريلز وفيديوهات قصيرة طبية عالية التحويل للأطباء والعيادات والمستشفيات — ثم ندعمها بإعلانات تحوّل المشاهدين إلى حجوزات فعلية.",
+   "cta": "احجز مكالمة استراتيجية",
+   "reels": [
+    {
+     "img": "/assets/img/reels/doctor-smiling.jpg",
+     "alt": "طبيب بالبالطو الأبيض يبتسم للكاميرا",
+     "views": "248K",
+     "cap": "٣ أعراض متتجاهلهاش أبداً"
+    },
+    {
+     "img": "/assets/img/reels/surgery.jpg",
+     "alt": "جراحون داخل غرفة العمليات",
+     "views": "1.2M",
+     "cap": "كواليس غرفة العمليات"
+    },
+    {
+     "img": "/assets/img/reels/facial-peel.jpg",
+     "alt": "مريضة تخضع لجلسة عناية بالبشرة",
+     "views": "530K",
+     "cap": "التقشير ولا الليزر؟"
+    },
+    {
+     "img": "/assets/img/reels/eye-exam.jpg",
+     "alt": "طبيب عيون يفحص مريضًا",
+     "views": "94K",
+     "cap": "إمتى تحتاج تعمل ليزك؟"
+    },
+    {
+     "img": "/assets/img/reels/doctor-scrubs.jpg",
+     "alt": "طبيبة بالزي الطبي",
+     "views": "312K",
+     "cap": "دكتورة بتجاوب على أسئلتكم"
+    },
+    {
+     "img": "/assets/img/reels/lab.jpg",
+     "alt": "فني معمل يجهّز العينات",
+     "views": "76K",
+     "cap": "تحاليل لازم تعملها كل سنة"
+    },
+    {
+     "img": "/assets/img/reels/dentist.jpg",
+     "alt": "طبيب أسنان يتحدث مع مريضة",
+     "views": "410K",
+     "cap": "ابتسامة هوليود في جلسة؟"
+    },
+    {
+     "img": "/assets/img/reels/microneedling.jpg",
+     "alt": "جلسة ميكرونيدلنج للبشرة",
+     "views": "188K",
+     "cap": "النتيجة بعد ٣ جلسات"
+    }
+   ],
+   "phone": {
+    "following": "أتابعه",
+    "forYou": "لك",
+    "handle": "@dr.clinic",
+    "caption": "يوم في حياة جراح 🩺 #صحتك_أولاً",
+    "sound": "♫ صوت أصلي"
+   },
+   "glassA": {
+    "to": 200,
+    "suffix": "k+",
+    "label": "مشاهدة للريلز"
+   },
+   "glassB": {
+    "to": 15,
+    "suffix": "%",
+    "word": "",
+    "label": "زيادة في الحجوزات"
+   },
+   "trust": "موثوقون من مستشفيات وعيادات ومعامل وأطباء في مصر والخليج"
+  },
+  "clients": [
+   {
+    "img": "/assets/img/clients/medical/mostafa-elnaggar-hospital.png",
+    "name": "مستشفى مصطفى النجار"
+   },
+   {
+    "img": "/assets/img/clients/medical/dr-alyaa.png",
+    "name": "عيادات د. علياء للتجميل"
+   },
+   {
+    "img": "/assets/img/clients/medical/damanhour-eye-center.png",
+    "name": "مركز دمنهور للعيون"
+   },
+   {
+    "img": "/assets/img/clients/medical/msg-clinics.png",
+    "name": "عيادات MSG غنيم"
+   },
+   {
+    "img": "/assets/img/clients/medical/tulip-lab.png",
+    "name": "معمل توليب للتحاليل الطبية"
+   },
+   {
+    "img": "/assets/img/clients/medical/dr-manal-alattar.png",
+    "name": "د. منال العطار"
+   },
+   {
+    "img": "/assets/img/clients/medical/enjaz-lab.png",
+    "name": "معمل إنجاز"
+   },
+   {
+    "img": "/assets/img/clients/medical/dr-lamees-abdo.png",
+    "name": "د. لميس عبده"
+   }
+  ],
+  "mission": {
+   "chip": "رسالتنا",
+   "title": {
+    "before": "نساعد العلامات الطبية على النمو",
+    "accent": "بوعي",
+    "after": "وليس فقط بملاحقة الترند."
+   },
+   "ceo": {
+    "eyebrow": "رسالتنا",
+    "title": "لسنا وكالة تسويق عادية",
+    "text": "نعمل مع الأطباء والمستشفيات الجادّين في بناء حضورهم. هدفنا ليس ملء الصفحة أو ملاحقة الترند، بل بناء ثقة تتحول إلى حجوزات حقيقية. المحتوى بالنسبة لنا مجرد البداية، ومنهجنا يجمع بين الدقة الطبية والاستراتيجية والتنفيذ والاستمرارية.",
+    "signature": "عادل",
+    "role": "عادل حسب الله · المدير التنفيذي لشارت"
+   },
+   "photoAlt": "طبيب يسجّل محتوى طبي",
+   "big": {
+    "to": 12.6,
+    "decimals": 1,
+    "suffix": "M+",
+    "word": "مشاهدة للريلز",
+    "text": "حققناها الشهر الماضي لعملائنا من القطاع الطبي عبر استراتيجية المحتوى وكتابة السكريبت الطبي والمونتاج الاحترافي وجدولة النشر وتحليل الأداء."
+   },
+   "retention": {
+    "to": 92,
+    "label": "نسبة استمرار العملاء"
+   },
+   "engagement": {
+    "to": 340,
+    "label": "متوسط التفاعل"
+   },
+   "quote": {
+    "text": "«خدمة ممتازة ونتائج فاقت توقعاتنا. فريق محترف ومتعاون بحق.»",
+    "name": "محمد عمر",
+    "role": "مدير مركز نور العيون"
+   }
+  },
+  "cases": {
+   "chip": "قصص النجاح",
+   "title": {
+    "before": "قصص نجاح",
+    "accent": "عملائنا",
+    "after": ""
+   },
+   "items": [
+    {
+     "dark": false,
+     "logo": "/assets/img/clients/medical/dr-alyaa.png",
+     "name": "عيادات د. علياء للتجميل",
+     "specialty": "جلدية وتجميل",
+     "spots": "",
+     "stats": [
+      {
+       "prefix": "+",
+       "to": 1.2,
+       "decimals": 1,
+       "suffix": "",
+       "word": "مليون",
+       "label": "مشاهدة للريلز",
+       "sub": "(آخر ٧ أيام)"
+      },
+      {
+       "prefix": "+",
+       "to": 340,
+       "decimals": 0,
+       "suffix": "%",
+       "word": "",
+       "label": "تفاعل",
+       "sub": ""
+      },
+      {
+       "prefix": "",
+       "to": 2.4,
+       "decimals": 1,
+       "suffix": "x",
+       "word": "",
+       "label": "استشارات محجوزة",
+       "sub": ""
+      }
+     ],
+     "reels": [
+      {
+       "img": "/assets/img/reels/facial-peel.jpg",
+       "alt": "ريل عن التقشير",
+       "views": "530K"
+      },
+      {
+       "img": "/assets/img/reels/microneedling.jpg",
+       "alt": "ريل عن الميكرونيدلنج",
+       "views": "188K"
+      },
+      {
+       "img": "/assets/img/reels/doctor-scrubs.jpg",
+       "alt": "ريل أسئلة وأجوبة",
+       "views": "312K"
+      }
+     ]
+    },
+    {
+     "dark": true,
+     "logo": "/assets/img/clients/medical/mostafa-elnaggar-hospital.png",
+     "name": "مستشفى مصطفى النجار",
+     "specialty": "القلب والأوعية الدموية",
+     "spots": "متاح مكانان لشهر ديسمبر",
+     "stats": [
+      {
+       "prefix": "",
+       "to": 840,
+       "decimals": 0,
+       "suffix": "K+",
+       "word": "",
+       "label": "مشاهدة للريلز",
+       "sub": ""
+      },
+      {
+       "prefix": "+",
+       "to": 180,
+       "decimals": 0,
+       "suffix": "%",
+       "word": "",
+       "label": "استفسارات المرضى",
+       "sub": ""
+      },
+      {
+       "prefix": "−",
+       "to": 38,
+       "decimals": 0,
+       "suffix": "%",
+       "word": "",
+       "label": "تكلفة العميل المحتمل",
+       "sub": ""
+      }
+     ],
+     "reels": [
+      {
+       "img": "/assets/img/reels/surgery.jpg",
+       "alt": "ريل من غرفة العمليات",
+       "views": "1.2M"
+      },
+      {
+       "img": "/assets/img/reels/doctor-man.jpg",
+       "alt": "ريل تعريفي بالجراح",
+       "views": "264K"
+      },
+      {
+       "img": "/assets/img/reels/filming-surgery.jpg",
+       "alt": "ريل من الكواليس",
+       "views": "97K"
+      }
+     ]
+    }
+   ],
+   "midCta": {
+    "title": {
+     "before": "جاهز تشوف نتائج زي دي في",
+     "accent": "عيادتك؟",
+     "after": ""
+    },
+    "cta": "احجز مكالمة استراتيجية",
+    "stats": [
+     {
+      "to": 1,
+      "suffix": "M+",
+      "label": "مشاهدة للريلز شهريًا"
+     },
+     {
+      "to": 45,
+      "suffix": "%",
+      "word": "",
+      "label": "زيادة في الحجوزات"
+     }
+    ],
+    "quote": "«لأول مرة نعرف بالضبط أي فيديو جاب أي مريض.»",
+    "quoteBy": "مدير عيادة · جلدية"
+   }
+  },
+  "why": {
+   "chip": "لماذا شارت؟",
+   "title": {
+    "before": "لماذا تختارنا العيادات",
+    "accent": "الأسرع نموًا",
+    "after": ""
+   },
+   "platform": {
+    "title": "إتقان كل المنصات",
+    "text": "إنستجرام وتيك توك وفيسبوك وسناب شات ويوتيوب وجوجل — نعرف ماذا يشاهد المرضى وعمّ يبحثون على كل منصة."
+   },
+   "squad": {
+    "title": "فريق متخصص طبيًا",
+    "text": "استراتيجيون وكتّاب سكريبت ومونتيرون يعملون في القطاع الصحي فقط — ويحترمون أخلاقيات الإعلان الطبي.",
+    "tag": "فريق طبي متخصص",
+    "alt": "أخصائي يراجع أشعة الأسنان"
+   },
+   "photo": {
+    "title": "انمُ مع فريق خبرائنا",
+    "text": "استراتيجيات مدروسة لتجعلك الاسم الأكثر ثقة في تخصصك.",
+    "cta": "ابدأ الآن",
+    "alt": "طبيبة مبتسمة بالبالطو الأبيض"
+   },
+   "growth": {
+    "title": "نمو سريع",
+    "text": "تفاعل أكبر وثقة أقوى ومرضى أكثر يحجزون — شهرًا بعد شهر.",
+    "pills": [
+     "+85% وصول خلال 30 يوم",
+     "ضعف الحجوزات",
+     "10x وصول عضوي"
+    ]
+   },
+   "analytics": {
+    "title": "تحليلات واضحة",
+    "text": "شاهد الأداء الحقيقي: المكالمات ومحادثات واتساب والحجوزات وتكلفة المريض — في تقرير شهري واحد وبسيط.",
+    "weeks": [
+     "أسبوع 1",
+     "أسبوع 2",
+     "أسبوع 3",
+     "أسبوع 4"
+    ]
+   }
+  },
+  "services": {
+   "chip": "خدماتنا",
+   "title": "اكتشف الإمكانات الحقيقية لعيادتك معنا.",
+   "cta": "شاهد قصص النجاح",
+   "items": [
+    {
+     "chip": "ريلز طبية",
+     "title": "المحتوى الطبي والريلز",
+     "text": "نحوّل خبرتك إلى فيديوهات قصيرة تثقّف المرضى وتبني الثقة وتنمّي مجتمعك — بسكريبت باللهجة المصرية والخليجية.",
+     "ticks": [
+      "يوم تصوير شهري في عيادتك",
+      "كتابة سكريبت طبي وبدايات جاذبة",
+      "مونتاج احترافي وترجمة على الشاشة"
+     ]
+    },
+    {
+     "chip": "جذب المرضى",
+     "title": "إعلانات ممولة تجلب الحجوزات",
+     "text": "حملات عالية النية على ميتا وتيك توك وسناب شات وجوجل — مستهدفة حسب التخصص والمنطقة والإجراء، ومحسّنة للحجوزات لا للإعجابات.",
+     "ticks": [
+      "إعلانات ميتا وتيك توك وسناب شات وجوجل",
+      "عروض وصفحات هبوط لكل خدمة",
+      "تحسين أسبوعي وتوسيع للحملات"
+     ]
+    },
+    {
+     "chip": "المواقع",
+     "title": "مواقع طبية وحجز أونلاين",
+     "text": "مواقع وصفحات هبوط سريعة بلغتين مع حجز أونلاين وواتساب وتتبع للمكالمات — مصممة لتحويل الزوار إلى مرضى.",
+     "ticks": [
+      "عربي وإنجليزي ومناسبة للموبايل",
+      "حجز أونلاين وأزرار واتساب",
+      "تتبع المكالمات والتحويلات"
+     ]
+    },
+    {
+     "chip": "سيو محلي",
+     "title": "خرائط جوجل والسيو والتقييمات",
+     "text": "اظهر أولًا عندما يبحث المرضى عن تخصصك بالقرب منهم — بملف نشاط تجاري محسّن على جوجل وتقييمات خمس نجوم مستمرة.",
+     "ticks": [
+      "تحسين ملف النشاط التجاري على جوجل",
+      "جمع التقييمات وإدارتها",
+      "محتوى سيو بالعربي والإنجليزي"
+     ]
+    },
+    {
+     "chip": "إدارة العملاء",
+     "title": "واتساب وCRM وكول سنتر",
+     "text": "العميل المحتمل نصف المهمة فقط. نجهّز أتمتة واتساب ومسارات CRM وسكريبتات الكول سنتر ليصبح كل استفسار زيارة مؤكدة.",
+     "ticks": [
+      "أتمتة واتساب بيزنس",
+      "سكريبتات وتدريب الكول سنتر",
+      "لوحات متابعة للعملاء المحتملين"
+     ]
+    }
+   ],
+   "mock": {
+    "content": {
+     "heroTitle": "قصص أطباء تجلب الحجوزات",
+     "heroSub": "شاهد ريلزنا الطبية",
+     "watch": "شاهد الآن",
+     "stories": "القصص",
+     "isNew": "جديد"
+    },
+    "ad": {
+     "handle": "dr.alyaa.clinic",
+     "sponsored": "ممول",
+     "offer": "احجزي استشارتك الأولى",
+     "book": "احجز الآن",
+     "likes": "2,481 إعجاب",
+     "leads": "+38 عميل محتمل اليوم"
+    },
+    "booking": {
+     "title": "احجز زيارتك",
+     "dayLabel": "اختر اليوم",
+     "days": [
+      {
+       "d": "السبت",
+       "n": "14"
+      },
+      {
+       "d": "الأحد",
+       "n": "15"
+      },
+      {
+       "d": "الإثنين",
+       "n": "16"
+      },
+      {
+       "d": "الثلاثاء",
+       "n": "17"
+      }
+     ],
+     "timeLabel": "المواعيد المتاحة",
+     "times": [
+      "4:00 م",
+      "5:30 م",
+      "6:00 م",
+      "7:30 م"
+     ],
+     "confirm": "تأكيد الموعد"
+    },
+    "maps": {
+     "query": "دكتور جلدية قريب مني",
+     "yours": "عيادتك",
+     "rating": "4.9 · 320 تقييم",
+     "open": "مفتوح · يغلق 10 م",
+     "buttons": [
+      "اتصال",
+      "الاتجاهات",
+      "حجز"
+     ],
+     "other": "عيادة أخرى",
+     "otherRating": "4.1 · 46 تقييم"
+    },
+    "chat": {
+     "name": "مركز العيون",
+     "status": "متصل الآن",
+     "messages": [
+      {
+       "out": false,
+       "text": "مساء الخير، عايز أحجز كشف ليزك 👋"
+      },
+      {
+       "out": true,
+       "text": "أهلاً بحضرتك! متاح السبت ٥ م أو الأحد ٧ م، تحب أي معاد؟"
+      },
+      {
+       "out": false,
+       "text": "السبت ٥ لو سمحت ✅"
+      },
+      {
+       "out": true,
+       "text": "تم الحجز ✔️ هنبعتلك تذكير قبل المعاد بيوم."
+      }
+     ]
+    }
+   }
+  },
+  "process": {
+   "chip": "طريقة العمل",
+   "title": {
+    "before": "كيف تعمل شارت",
+    "accent": "نظام بسيط في ٥ أسابيع",
+    "after": ""
+   },
+   "weeks": [
+    "الأسبوع 01",
+    "الأسبوع 02",
+    "الأسبوع 03",
+    "الأسبوع 04",
+    "الأسبوع 05"
+   ],
+   "steps": [
+    {
+     "title": "مكالمة التعارف",
+     "text": "نتعرف على تخصصك وخدماتك ومرضاك وأهدافك، ونراجع حساباتك الحالية."
+    },
+    {
+     "title": "يوم التصوير",
+     "text": "يصوّر فريقنا ريلز شهر كامل في عيادتك في جلسة واحدة سهلة — السكريبت جاهز وبدون أي ضغط."
+    },
+    {
+     "title": "صناعة ريلز تنتشر",
+     "text": "مونتاج وترجمة وبدايات جاذبة ومراجعة طبية — كل فيديو مصمم ليوقف التمرير."
+    },
+    {
+     "title": "توافق ثم ننطلق",
+     "text": "توافق على كل فيديو، ثم ننشر ونطلق الإعلانات لجلب المرضى من الأسبوع الأول."
+    }
+   ],
+   "rec": "● تسجيل",
+   "approved": "تمت موافقة الطبيب",
+   "live": "الحملة تعمل الآن",
+   "stats": [
+    {
+     "to": 1,
+     "suffix": "M+",
+     "label": "مشاهدة للريلز"
+    },
+    {
+     "to": 45,
+     "suffix": "%",
+     "word": "",
+     "label": "زيادة في التفاعل"
+    },
+    {
+     "to": 30,
+     "suffix": "+",
+     "label": "فيديو شهريًا"
+    }
+   ]
+  },
+  "testimonials": {
+   "chip": "آراء العملاء",
+   "title": {
+    "before": "قصص حقيقية،",
+    "accent": "ونتائج حقيقية",
+    "after": ""
+   },
+   "items": [
+    {
+     "video": false,
+     "img": "",
+     "quote": "«خدمة ممتازة ونتائج فاقت توقعاتنا. فريق محترف ومتعاون يفهم طريقة تفكير المرضى.»",
+     "name": "محمد عمر",
+     "role": "مدير مركز نور العيون",
+     "initials": "م ع"
+    },
+    {
+     "video": true,
+     "img": "/assets/img/reels/doctor-scrubs.jpg",
+     "quote": "«جدولنا ممتلئ كل أيام الأسبوع.»",
+     "name": "",
+     "role": "عيادة جلدية · رأي بالفيديو",
+     "initials": ""
+    },
+    {
+     "video": false,
+     "img": "",
+     "quote": "«فهموا قواعد الإعلان الطبي من أول يوم. المحتوى احترافي وموثوق، وعمره ما كان رخيص.»",
+     "name": "مدير التسويق",
+     "role": "مستشفى خاص",
+     "initials": "م ت"
+    },
+    {
+     "video": false,
+     "img": "",
+     "quote": "«كنت قلقان من الوقوف قدام الكاميرا. فريقهم سهّل كل حاجة، ودلوقتي المرضى بييجوا ويقولوا إنهم شافوا فيديوهاتي.»",
+     "name": "استشاري جراحة",
+     "role": "عيادة خاصة",
+     "initials": "ا ج"
+    },
+    {
+     "video": true,
+     "img": "/assets/img/reels/dentist.jpg",
+     "quote": "«حجوزات الزراعة اتضاعفت في شهرين.»",
+     "name": "",
+     "role": "مركز أسنان · رأي بالفيديو",
+     "initials": ""
+    },
+    {
+     "video": false,
+     "img": "",
+     "quote": "«نظام المتابعة على واتساب لوحده ضاعف عدد العملاء اللي جم المعمل فعلًا.»",
+     "name": "مسؤول التشغيل",
+     "role": "معمل تحاليل طبية",
+     "initials": "م ش"
+    }
+   ]
+  },
+  "faq": {
+   "chip": "الأسئلة الشائعة",
+   "title": {
+    "before": "كل ما تحتاج",
+    "accent": "معرفته",
+    "after": ""
+   },
+   "text": "لم تجد إجابتك؟ راسلنا على واتساب وسنرد خلال ساعة في أيام العمل.",
+   "cta": "اسألنا على واتساب",
+   "items": [
+    {
+     "q": "ما نوع المنشآت الطبية التي تعملون معها؟",
+     "a": "المستشفيات والعيادات والمراكز الطبية والمعامل والصيدليات والأطباء — من الجلدية والأسنان إلى القلب والعيون والحقن المجهري والتجميل."
+    },
+    {
+     "q": "هل يجب أن أظهر أمام الكاميرا؟",
+     "a": "ليس شرطًا، لكن الفيديوهات التي يقدمها الطبيب بنفسه تبني الثقة بشكل أسرع. نتولى السكريبت والإخراج والمونتاج، لذا يستغرق التصوير عادةً ساعات قليلة في الشهر."
+    },
+    {
+     "q": "هل محتواكم متوافق مع قواعد الإعلان الطبي؟",
+     "a": "نعم. نلتزم بلوائح الإعلان الطبي المحلية وسياسات الإعلانات الصحية لكل منصة. لا ادعاءات مبالغ فيها ولا صور قبل وبعد مضللة — وتراجع كل سكريبت بنفسك قبل التصوير."
+    },
+    {
+     "q": "متى تظهر النتائج؟",
+     "a": "الحملات الممولة تجلب أول الاستفسارات عادةً خلال أسبوع إلى أسبوعين من الإطلاق، بينما يتراكم الوصول العضوي والثقة خلال شهرين إلى ثلاثة من النشر المستمر."
+    },
+    {
+     "q": "كيف تقيسون النجاح؟",
+     "a": "نتابع المكالمات ومحادثات واتساب والحجوزات وتكلفة المريض — وليس المشاهدات فقط. وتحصل على تقرير شهري ومكالمة استراتيجية."
+    },
+    {
+     "q": "هل تقدمون دعمًا مستمرًا؟",
+     "a": "نعم. يعمل معظم عملائنا معنا بباقات شهرية مع مدير حساب مخصص وتحسين أسبوعي وإنتاج محتوى مستمر."
+    }
+   ]
+  },
+  "contact": {
+   "title": {
+    "before": "جاهز تطلق",
+    "accent": "نمو عيادتك؟",
+    "after": ""
+   },
+   "text": "حدثنا عن عيادتك — وسنرسل لك تقييمًا مجانيًا للمحتوى والتسويق مع خطة نمو واضحة.",
+   "form": {
+    "name": "الاسم بالكامل",
+    "phone": "رقم الهاتف / واتساب",
+    "practice": "اسم العيادة / المستشفى",
+    "specialty": "التخصص",
+    "specialties": [
+     "مستشفى",
+     "جلدية وتجميل",
+     "أسنان",
+     "عيون",
+     "قلب",
+     "نساء وتوليد وحقن مجهري",
+     "معمل تحاليل",
+     "جراحة تجميل",
+     "أخرى"
+    ],
+    "submit": "احجز مكالمة استراتيجية",
+    "note": "سيفتح واتساب ببياناتك — نرد خلال يوم عمل واحد.",
+    "error": "من فضلك أدخل اسمك ورقم هاتف صحيح.",
+    "opening": "جارٍ فتح واتساب…",
+    "message": {
+     "intro": "مرحبًا شارت إيجنسي، أرغب في حجز مكالمة استراتيجية.",
+     "name": "الاسم",
+     "phone": "الهاتف",
+     "practice": "المنشأة",
+     "specialty": "التخصص"
+    }
+   },
+   "address": "أرض الميري، دمنهور، مصر"
+  },
+  "footer": {
+   "tagline": "محتوى وتسويق طبي للمستشفيات والعيادات والأطباء في مصر والخليج.",
+   "links": [
+    {
+     "href": "#mission",
+     "label": "رسالتنا"
+    },
+    {
+     "href": "#cases",
+     "label": "قصص النجاح"
+    },
+    {
+     "href": "#services",
+     "label": "خدماتنا"
+    },
+    {
+     "href": "#process",
+     "label": "طريقة العمل"
+    },
+    {
+     "href": "#testimonials",
+     "label": "آراء العملاء"
+    },
+    {
+     "href": "#faq",
+     "label": "الأسئلة الشائعة"
+    },
+    {
+     "href": "#contact",
+     "label": "احجز مكالمة"
+    }
+   ],
+   "word": "Chart Agency",
+   "rights": "شارت إيجنسي. جميع الحقوق محفوظة.",
+   "photos": "الصور: Unsplash",
+   "whatsapp": "تواصل معنا على واتساب"
+  }
+ }
+}

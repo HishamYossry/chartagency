@@ -1,0 +1,20 @@
+# Chart Agency monorepo — each app also has its own .gitignore (admin/.gitignore, web/.gitignore).
+
+# Secrets: never commit environment files (only the *.example templates)
+.env
+.env.*
+!.env.example
+!.env.production.example
+
+# Dependencies and build output
+node_modules/
+vendor/
+.next/
+out/
+deploy/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

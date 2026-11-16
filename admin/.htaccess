@@ -1,0 +1,12 @@
+# The admin is unzipped straight into public_html, but Laravel must only serve its
+# public/ folder. Every request is passed into public/ — so .env, vendor/, storage/
+# etc. can never be downloaded.
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
+
+# Belt and braces: never serve dotfiles from the project root
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>
